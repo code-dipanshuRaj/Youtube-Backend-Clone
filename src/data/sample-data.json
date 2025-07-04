@@ -1,0 +1,234 @@
+{
+  "users": [
+    {
+      "username": "techguru",
+      "fullname": "John Tech",
+      "email": "john@techguru.com",
+      "password": "Tech@123456",
+      "avatar": "https://res.cloudinary.com/demo/image/upload/v1/samples/people/tech_guru_avatar.jpg",
+      "coverImage": "https://res.cloudinary.com/demo/image/upload/v1/samples/tech/tech_cover.jpg"
+    },
+    {
+      "username": "cookingmaster",
+      "fullname": "Sarah Chef",
+      "email": "sarah@cooking.com",
+      "password": "Cook@123456",
+      "avatar": "https://res.cloudinary.com/demo/image/upload/v1/samples/people/cooking_master_avatar.jpg",
+      "coverImage": "https://res.cloudinary.com/demo/image/upload/v1/samples/food/cooking_cover.jpg"
+    },
+    {
+      "username": "fitnesspro",
+      "fullname": "Mike Trainer",
+      "email": "mike@fitness.com",
+      "password": "Fit@123456",
+      "avatar": "https://res.cloudinary.com/demo/image/upload/v1/samples/people/fitness_pro_avatar.jpg",
+      "coverImage": "https://res.cloudinary.com/demo/image/upload/v1/samples/sports/fitness_cover.jpg"
+    },
+    {
+      "username": "gaminglegend",
+      "fullname": "Alex Player",
+      "email": "alex@gaming.com",
+      "password": "Game@123456",
+      "avatar": "https://res.cloudinary.com/demo/image/upload/v1/samples/people/gaming_legend_avatar.jpg",
+      "coverImage": "https://res.cloudinary.com/demo/image/upload/v1/samples/games/gaming_cover.jpg"
+    },
+    {
+      "username": "viewer123",
+      "fullname": "Emma Viewer",
+      "email": "emma@viewer.com",
+      "password": "View@123456",
+      "avatar": "https://res.cloudinary.com/demo/image/upload/v1/samples/people/viewer_avatar.jpg",
+      "coverImage": "https://res.cloudinary.com/demo/image/upload/v1/samples/people/viewer_cover.jpg"
+    },
+    {
+      "username": "techfan",
+      "fullname": "David Tech",
+      "email": "david@tech.com",
+      "password": "Tech@123456",
+      "avatar": "https://res.cloudinary.com/demo/image/upload/v1/samples/people/tech_fan_avatar.jpg",
+      "coverImage": "https://res.cloudinary.com/demo/image/upload/v1/samples/tech/tech_fan_cover.jpg"
+    },
+    {
+      "username": "foodie",
+      "fullname": "Lisa Food",
+      "email": "lisa@food.com",
+      "password": "Food@123456",
+      "avatar": "https://res.cloudinary.com/demo/image/upload/v1/samples/people/foodie_avatar.jpg",
+      "coverImage": "https://res.cloudinary.com/demo/image/upload/v1/samples/food/foodie_cover.jpg"
+    },
+    {
+      "username": "gymrat",
+      "fullname": "Tom Fitness",
+      "email": "tom@fitness.com",
+      "password": "Gym@123456",
+      "avatar": "https://res.cloudinary.com/demo/image/upload/v1/samples/people/gym_rat_avatar.jpg",
+      "coverImage": "https://res.cloudinary.com/demo/image/upload/v1/samples/sports/gym_rat_cover.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Introduction to JavaScript",
+      "description": "Learn the basics of JavaScript programming language",
+      "videoFile": "https://res.cloudinary.com/demo/video/upload/v1/samples/videos/js_intro.mp4",
+      "thumbnail": "https://res.cloudinary.com/demo/image/upload/v1/samples/tech/js_thumbnail.jpg",
+      "duration": "15:30",
+      "owner": "techguru"
+    },
+    {
+      "title": "Advanced JavaScript Patterns",
+      "description": "Deep dive into JavaScript design patterns and best practices",
+      "videoFile": "https://res.cloudinary.com/demo/video/upload/v1/samples/videos/js_advanced.mp4",
+      "thumbnail": "https://res.cloudinary.com/demo/image/upload/v1/samples/tech/js_advanced_thumbnail.jpg",
+      "duration": "25:45",
+      "owner": "techguru"
+    },
+    {
+      "title": "Quick Pasta Recipe",
+      "description": "Learn to make delicious pasta in 15 minutes",
+      "videoFile": "https://res.cloudinary.com/demo/video/upload/v1/samples/videos/pasta_recipe.mp4",
+      "thumbnail": "https://res.cloudinary.com/demo/image/upload/v1/samples/food/pasta_thumbnail.jpg",
+      "duration": "12:45",
+      "owner": "cookingmaster"
+    },
+    {
+      "title": "Gourmet Desserts",
+      "description": "Master the art of making professional desserts",
+      "videoFile": "https://res.cloudinary.com/demo/video/upload/v1/samples/videos/desserts.mp4",
+      "thumbnail": "https://res.cloudinary.com/demo/image/upload/v1/samples/food/desserts_thumbnail.jpg",
+      "duration": "30:00",
+      "owner": "cookingmaster"
+    },
+    {
+      "title": "Full Body Workout",
+      "description": "Complete workout routine for beginners",
+      "videoFile": "https://res.cloudinary.com/demo/video/upload/v1/samples/videos/workout.mp4",
+      "thumbnail": "https://res.cloudinary.com/demo/image/upload/v1/samples/sports/workout_thumbnail.jpg",
+      "duration": "25:15",
+      "owner": "fitnesspro"
+    },
+    {
+      "title": "Advanced Cardio",
+      "description": "High-intensity cardio workout for experienced fitness enthusiasts",
+      "videoFile": "https://res.cloudinary.com/demo/video/upload/v1/samples/videos/cardio.mp4",
+      "thumbnail": "https://res.cloudinary.com/demo/image/upload/v1/samples/sports/cardio_thumbnail.jpg",
+      "duration": "35:20",
+      "owner": "fitnesspro"
+    },
+    {
+      "title": "Gaming Tips and Tricks",
+      "description": "Advanced gaming strategies for competitive players",
+      "videoFile": "https://res.cloudinary.com/demo/video/upload/v1/samples/videos/gaming_tips.mp4",
+      "thumbnail": "https://res.cloudinary.com/demo/image/upload/v1/samples/games/gaming_thumbnail.jpg",
+      "duration": "20:00",
+      "owner": "gaminglegend"
+    },
+    {
+      "title": "Pro Gaming Setup",
+      "description": "How to optimize your gaming setup for maximum performance",
+      "videoFile": "https://res.cloudinary.com/demo/video/upload/v1/samples/videos/gaming_setup.mp4",
+      "thumbnail": "https://res.cloudinary.com/demo/image/upload/v1/samples/games/setup_thumbnail.jpg",
+      "duration": "18:45",
+      "owner": "gaminglegend"
+    }
+  ],
+  "subscriptions": [
+    {
+      "subscriber": "viewer123",
+      "channel": "techguru"
+    },
+    {
+      "subscriber": "viewer123",
+      "channel": "cookingmaster"
+    },
+    {
+      "subscriber": "viewer123",
+      "channel": "fitnesspro"
+    },
+    {
+      "subscriber": "techfan",
+      "channel": "techguru"
+    },
+    {
+      "subscriber": "techfan",
+      "channel": "gaminglegend"
+    },
+    {
+      "subscriber": "foodie",
+      "channel": "cookingmaster"
+    },
+    {
+      "subscriber": "foodie",
+      "channel": "fitnesspro"
+    },
+    {
+      "subscriber": "gymrat",
+      "channel": "fitnesspro"
+    },
+    {
+      "subscriber": "gymrat",
+      "channel": "gaminglegend"
+    },
+    {
+      "subscriber": "techguru",
+      "channel": "gaminglegend"
+    },
+    {
+      "subscriber": "cookingmaster",
+      "channel": "fitnesspro"
+    },
+    {
+      "subscriber": "fitnesspro",
+      "channel": "techguru"
+    }
+  ],
+  "watchHistory": [
+    {
+      "user": "viewer123",
+      "videos": [
+        "Introduction to JavaScript",
+        "Quick Pasta Recipe",
+        "Full Body Workout",
+        "Gaming Tips and Tricks"
+      ]
+    },
+    {
+      "user": "techfan",
+      "videos": [
+        "Introduction to JavaScript",
+        "Advanced JavaScript Patterns",
+        "Gaming Tips and Tricks",
+        "Pro Gaming Setup"
+      ]
+    },
+    {
+      "user": "foodie",
+      "videos": [
+        "Quick Pasta Recipe",
+        "Gourmet Desserts",
+        "Full Body Workout"
+      ]
+    },
+    {
+      "user": "gymrat",
+      "videos": [
+        "Full Body Workout",
+        "Advanced Cardio",
+        "Pro Gaming Setup"
+      ]
+    },
+    {
+      "user": "techguru",
+      "videos": [
+        "Gaming Tips and Tricks",
+        "Pro Gaming Setup"
+      ]
+    },
+    {
+      "user": "cookingmaster",
+      "videos": [
+        "Full Body Workout",
+        "Advanced Cardio"
+      ]
+    }
+  ]
+} 
